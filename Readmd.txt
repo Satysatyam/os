@@ -1,0 +1,7 @@
+Lab Assignments 
+
+1. Implements message passing alogorithm.
+2.Implements FCFS algorithms .
+3.Implemts SIF.
+4.Implemts multilevel feedback schefuling algorithm 
+5.write TSR to display your name in the display while you are passing space bar.
